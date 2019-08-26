@@ -1,3 +1,4 @@
 # Med.-Software-Design-Inro
-https://github.com/xiaoyusaraqi/intro
-https://github.com/yiyh19/Intro
+Xiaoyu Qi: https://github.com/xiaoyusaraqi/intro
+
+Yiying Huang: https://github.com/yiyh19/Intro
